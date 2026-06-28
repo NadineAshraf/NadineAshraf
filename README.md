@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nadine Ashraf</h1>
+<h1 align="center">Hi 👋, I'm Nadine Ghaly</h1>
 <h3 align="center">A passionate Embedded Software & IoT Developer & Testing from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadineashraf&label=Profile%20views&color=0e75b6&style=flat" alt="nadineashraf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadineashraf" alt="nadineashraf" /></a> </p>
 
-- 🔭 I’m currently working as **Embedded Software Engineer at Valeo**.
+- 🔭 I have previous worked as **Embedded Software Engineer at Valeo**.
 
 - 🌱 I’m currently learning **Embedded systems and Testing** .
 
